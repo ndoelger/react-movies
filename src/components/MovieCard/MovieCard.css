@@ -1,0 +1,15 @@
+.MovieCard div {
+    background-color: brown;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.MovieCard h1, .MovieCard h4 {
+    margin: 8px;
+} 
